@@ -1,0 +1,1 @@
+export const DECREMENT = 'prod_info/decrement'
